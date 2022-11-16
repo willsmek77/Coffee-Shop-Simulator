@@ -1,5 +1,4 @@
-# CS 120 Module 2 Open-Ended Project
-### Author: Will Smialek
+# Coffee Shop Simulator
 
 ## Program Summary
 This is a game where you run a coffee shop. You manage your supply of materials, your shop upgrades, and you serve 
